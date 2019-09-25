@@ -13,7 +13,7 @@ public class Main {
         double tip1 = 20;
         double tip2 = 15;
         double tip3 = 10;
-        //GIT TEST
+
 
 
 
