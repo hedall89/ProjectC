@@ -46,5 +46,8 @@ public class Main {
 
         //output TODO - output the satisfaction lvl and the tipAmount
 
+        System.out.println(" Customer satisfactory level = " +satisfactory);
+        System.out.println(" The total tip amount = " + tipAmount+ "$");
+
     }
 }
