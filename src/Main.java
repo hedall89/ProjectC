@@ -36,11 +36,11 @@ public class Main {
                 }
             }
             else{
-                System.out.print("\n Satisfactory level should be 1, 2, or 3");
+                System.out.print("\n Satisfactory level should be 1, 2, or 3\n");
             }
         }
         else {
-            System.out.print("\n the price must be numbers");
+            System.out.print("\n the price must be numbers \n");
         }
 
 
